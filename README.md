@@ -6,9 +6,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![This is an image](pexels-gabriel-peter.jpg)
-
-
 
 👋 Hi, I’m @Kang-ChangWoo
 - 👀 I’m interested in 3D Vision and Scene Completion

@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
     <img src="https://img.shields.io/badge/GitHub-Kang--ChangWoo-181717?logo=github&logoColor=white" alt="GitHub Profile">
   </a>
   <a href="https://scholar.google.com/citations?user=C4D-6U4AAAAJ&hl=ko&oi=ao">
-    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=google-scholar&logoColor=white" alt="Google Scholar">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=google-scholar&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/changwoo-kang-13293214a">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -30,18 +30,3 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-
-<p align="center">
-  <a href="https://github.com/Kang-ChangWoo">
-    <img src="https://img.shields.io/badge/GitHub-Kang--ChangWoo-black?logo=github" alt="GitHub Profile">
-  </a>
-  <a href="https://scholar.google.com/citations?user=C4D-6U4AAAAJ&hl=ko&oi=ao">
-    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar" alt="Google Scholar">
-  </a>
-  <a href="https://www.linkedin.com/in/changwoo-kang-13293214a">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://hits.sh/github.com/Kang-ChangWoo/hit-counter/">
-    <img src="https://hits.sh/github.com/Kang-ChangWoo/hit-counter.svg?view=today-total" alt="Hits">
-  </a>
-</p>

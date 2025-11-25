@@ -12,9 +12,9 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me ... --->
 
 <p align="center">
-  <a href="https://kang-changwoo.github.io/">
+<!---   <a href="https://kang-changwoo.github.io/">
     <img src="https://img.shields.io/badge/About%20Me-6C63FF?style=flat-square&logo=About.me&logoColor=white" alt="About Me">
-  </a>
+  </a>--->
   <a href="https://www.linkedin.com/in/changwoo-kang-13293214a">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<p align="center">
+<!--- <p align="center">
   <a href="https://github.com/Kang-ChangWoo">
     <img src="https://img.shields.io/badge/GitHub-Kang--ChangWoo-181717?logo=github&logoColor=white" alt="GitHub Profile">
   </a>
@@ -44,5 +44,5 @@ You can click the Preview link to take a look at your changes.
   <a href="https://hits.sh/github.com/Kang-ChangWoo/hit-counter/">
     <img src="https://hits.sh/github.com/Kang-ChangWoo/hit-counter.svg?view=today-total" alt="Hits">
   </a>
-</p>
+</p>--->
 

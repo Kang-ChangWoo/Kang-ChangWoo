@@ -5,7 +5,13 @@ Kang-ChangWoo/Kang-ChangWoo is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-
+\begin{center}
+    \href{https://github.com/Kang-ChangWoo}{\includegraphics[width=0.35\textwidth]{https://img.shields.io/badge/GitHub-Kang--ChangWoo-black?logo=github}}\\
+    \vspace{2mm}
+    \href{https://scholar.google.com/citations?user=C4D-6U4AAAAJ&hl=ko&oi=ao}{\includegraphics[width=0.35\textwidth]{https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar}}\\
+    \vspace{2mm}
+    \href{https://hits.sh/github.com/Kang-ChangWoo/hit-counter/}{\includegraphics[width=0.3\textwidth]{https://hits.sh/github.com/Kang-ChangWoo/hit-counter.svg?view=today-total}}
+\end{center}
 
 👋 Hi, I’m @Kang-ChangWoo
 - 👀 I’m interested in 3D Vision and Scene Completion

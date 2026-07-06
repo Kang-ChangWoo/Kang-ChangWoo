@@ -5,13 +5,6 @@ Kang-ChangWoo/Kang-ChangWoo is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-👋 Hi, I’m Changwoo Kang.
-
-🔊 My recent research focuses on audio-based 3D scene understanding, particularly on how acoustic observations can reveal the spatial structure and geometry of surrounding environments.
-
-🧩 My previous research focused on 3D generation and reconstruction, particularly for humans, animals, and interactive scenes.
-
-
 <p align="center">
   <img src="./youngnam.png" width="100%">
 </p>

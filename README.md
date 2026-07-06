@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="center">
-  <a href="https://github.com/Kang-ChangWoo">
+  <a href="https://Kang-ChangWoo.github.io">
     <img src="https://img.shields.io/badge/GitHub-Kang--ChangWoo-181717?logo=github&logoColor=white" alt="GitHub Profile">
   </a>
   <a href="https://scholar.google.com/citations?user=C4D-6U4AAAAJ&hl=ko&oi=ao">

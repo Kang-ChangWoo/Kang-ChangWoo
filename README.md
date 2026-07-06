@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <p align="center">
-  <img src="./youngnam.png" width="500">
+  <img src="./youngnam.png" width="100%">
 </p>
 
 <!--- -🌱 I’m currently learning ...

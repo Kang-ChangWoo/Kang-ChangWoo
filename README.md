@@ -23,7 +23,8 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <img src="./youngnam.png" width="100%">
 </p>
-
+  </a>
+</p>
 
 --------
 
@@ -52,6 +53,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
     <img src="https://hits.sh/github.com/Kang-ChangWoo/hit-counter.svg?view=today-total" alt="Hits">
-  </a>
-</p>
+
 

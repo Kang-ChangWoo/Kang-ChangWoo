@@ -5,8 +5,13 @@ Kang-ChangWoo/Kang-ChangWoo is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-👋 Hi, I’m @Kang-ChangWoo
-- 👀 I’m interested in 3D Vision and Scene Completion
+👋 Hi, I’m Changwoo Kang, a Ph.D. student interested in 3D vision and multimodal perception.
+
+🔊 My recent research focuses on audio-based 3D scene understanding, particularly on how acoustic observations can reveal the spatial structure and geometry of surrounding environments.
+
+🧩 My previous research focused on 3D generation and reconstruction, particularly for humans, animals, and interactive scenes.
+
+
 <!--- -🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->

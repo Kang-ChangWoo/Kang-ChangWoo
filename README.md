@@ -12,6 +12,10 @@ You can click the Preview link to take a look at your changes.
 🧩 My previous research focused on 3D generation and reconstruction, particularly for humans, animals, and interactive scenes.
 
 
+<p align="center">
+  <img src="./youngnam.png" width="500">
+</p>
+
 <!--- -🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->

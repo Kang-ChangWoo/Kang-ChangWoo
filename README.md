@@ -17,9 +17,6 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linkedin.com/in/changwoo-kang-13293214a">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/Kang-ChangWoo">
-    <img src="https://komarev.com/ghpvc/?username=Kang-ChangWoo&label=Profile%20Views" alt="Profile Views">
-  </a>
 </p>
 
 
@@ -50,4 +47,14 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
   <img src="./youngnam.png" width="100%">
 </p>
+
+-------
+
+
+<p align="center">
+  <a href="https://github.com/Kang-ChangWoo">
+    <img src="https://komarev.com/ghpvc/?username=Kang-ChangWoo&label=Profile%20Views" alt="Profile Views">
+  </a>
+</p>
+
 

@@ -17,8 +17,8 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.linkedin.com/in/changwoo-kang-13293214a">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://hits.sh/github.com/Kang-ChangWoo/hit-counter/">
-    <img src="https://hits.sh/github.com/Kang-ChangWoo/hit-counter.svg" alt="Hits">
+  <a href="https://hits.sh/github.com/Kang-ChangWoo/">
+    <img src="https://hits.sh/github.com/Kang-ChangWoo.svg?view=today-total" alt="Hits">
   </a>
 </p>
 

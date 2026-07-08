@@ -5,17 +5,17 @@ Kang-ChangWoo/Kang-ChangWoo is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-
-
 <p align="center">
-  <a href="https://Kang-ChangWoo.github.io">
-    <img src="https://img.shields.io/badge/GitHub-Kang--ChangWoo-181717?logo=github&logoColor=white" alt="GitHub Profile">
+  <a href="https://github.com/Kang-ChangWoo">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
   </a>
+
   <a href="https://scholar.google.com/citations?user=C4D-6U4AAAAJ&hl=ko&oi=ao">
-    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=google-scholar&logoColor=white" alt="Google Scholar">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=google-scholar&logoColor=white" alt="Google Scholar">
   </a>
+
   <a href="https://www.linkedin.com/in/changwoo-kang-13293214a">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
